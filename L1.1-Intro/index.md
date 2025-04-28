@@ -20,20 +20,25 @@ In short, multimodal is the science of **heterogeneous** and **interconnected** 
 - relevance: task relevance, context dependence; maybe two modalities are not relevant to each other, and their tasks are not related
 
 ### Interconnectedness
+1. different modalities can be connected 
+   1. because they have related and shared commonality
+   2. from a stat view: can be seemed as association/correlation/co-occurrence, or dependence(eg causal/temporal)
+   3. from a semantic view: this is because they have the same ground truth/correspondence, or function (eg xx used xxx for yyyy)
 
+2. Interactions only happens during inference
 
 
 
 
 ## core technical and conceptual challenges 
-
-
+in the context  of MML, MMAI is the superset of MML:
+![1745826800098](image/index/1745826800098.png)
 
 
 
 
 ## schedule
-
+together, we will solve **6 challenges** along those roads
 
 
 
